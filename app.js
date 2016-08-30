@@ -12,8 +12,8 @@ var express    = require('express'),
 // ***
 // *** OpenTok Constants for creating Session and Token values
 // ***
-var OTKEY = config.opentok.key;
-var ot = new opentok(config.opentok.key, config.opentok.secret);
+var 45644852 = config.opentok.key;
+var d79fb138363f63d2051adeda34413175fcb7fb21 = new opentok(config.opentok.key, config.opentok.secret);
 
 // ***
 // *** Setup Express to handle static files in public folder
